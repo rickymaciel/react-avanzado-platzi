@@ -1,1 +1,4 @@
-console.log('Empezamos el curso!!!');
+import React from 'react'
+import ReactDom from 'react-dom'
+
+ReactDom.render('Hola Platzi!', document.body)
